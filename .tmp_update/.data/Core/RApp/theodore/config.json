@@ -3,7 +3,7 @@
 "icon":"theodore.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../ROMS/THOMSON",
+"rompath":"../../Roms/THOMSON",
 "imgpath":"../../Imgs/THOMSON",
 "useswap":0,
 "shortname":0,

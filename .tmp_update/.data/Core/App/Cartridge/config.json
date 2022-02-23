@@ -1,0 +1,7 @@
+{
+"label":"Cartridge",
+"icon":"icon.png",
+"iconsel":"icon.png",
+"launch":"launch.sh",
+"description":"Insert a game cartridge"
+}

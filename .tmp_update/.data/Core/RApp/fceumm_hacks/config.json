@@ -1,0 +1,12 @@
+{
+"label":"fceumm_hacks",
+"icon":"fceumm.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/FCHACKS",
+"imgpath":"../../Imgs/FCHACKS",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

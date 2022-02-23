@@ -1,0 +1,12 @@
+{
+"label":"1995: SAT",
+"icon":"satella.png",
+"iconsel":"satella_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/SATELLAVIEW",
+"imgpath":"../../Imgs/SATELLAVIEW",
+"useswap":1,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

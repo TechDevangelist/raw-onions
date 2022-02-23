@@ -1,9 +1,9 @@
 {
-"label":"supafaust",
+"label":"mednafen_supafaust",
 "icon":"supafaust.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../Roms/SFC",
+"rompath":"../../Roms/SGB",
 "imgpath":"../../Imgs/SFC",
 "useswap":1,
 "shortname":0,

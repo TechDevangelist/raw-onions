@@ -3,7 +3,7 @@
 "icon":"x1.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../ROMS/XONE",
+"rompath":"../../Roms/XONE",
 "imgpath":"../../Imgs/XONE",
 "useswap":0,
 "shortname":0,

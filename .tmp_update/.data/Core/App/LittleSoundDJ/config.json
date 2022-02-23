@@ -1,0 +1,7 @@
+{
+"label":"Little sound DJ",
+"icon":"icon.png",
+"iconsel":"icon.png",
+"launch":"launch.sh",
+"description":"8bits music editor"
+}

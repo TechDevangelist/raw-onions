@@ -3,7 +3,7 @@
 "icon":"xrick.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../ROMS/XRICK",
+"rompath":"../../Roms/XRICK",
 "imgpath":"../../Imgs/",
 "useswap":0,
 "shortname":0,

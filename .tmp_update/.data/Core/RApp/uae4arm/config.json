@@ -3,7 +3,7 @@
 "icon":"uae4arm.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../ROMS/AMIGA",
+"rompath":"../../Roms/AMIGA",
 "imgpath":"../../Imgs/AMIGA",
 "useswap":0,
 "shortname":0,

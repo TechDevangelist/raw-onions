@@ -3,7 +3,7 @@
 "icon":"mednafen_saturn.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../ROMS/SATURN",
+"rompath":"../../Roms/SATURN",
 "imgpath":"../../Imgs/SATURN",
 "useswap":1,
 "shortname":0,

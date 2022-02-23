@@ -1,0 +1,12 @@
+{
+"label":"1993: CPS2",
+"icon":"cps2.png",
+"iconsel":"cps2_sel.png",
+"launch":"launch.sh",
+"rompath":"../../ROMS/CPS2",
+"imgpath":"../../Imgs/cps2",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip"
+}

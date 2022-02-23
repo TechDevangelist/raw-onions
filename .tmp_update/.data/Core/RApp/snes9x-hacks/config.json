@@ -1,0 +1,13 @@
+{
+"label":"snes9x_hacks",
+"icon":"snes9x.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/SFCHACKS",
+"imgpath":"../../Imgs/SFCHACKS",
+"useswap":1,
+"shortname":0,
+"hidebios":0,
+"extlist":""
+}
+

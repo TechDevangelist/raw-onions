@@ -3,7 +3,7 @@
 "icon":"reminiscence.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../ROMS/REMINISCENCE",
+"rompath":"../../Roms/REMINISCENCE",
 "imgpath":"../../Imgs/",
 "useswap":0,
 "shortname":0,

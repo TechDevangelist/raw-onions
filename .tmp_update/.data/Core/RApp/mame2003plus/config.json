@@ -1,6 +1,6 @@
 {
 "label":"mame2003plus",
-"icon":"mame078plus.png",
+"icon":"mame2003plus.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/MAME2003",

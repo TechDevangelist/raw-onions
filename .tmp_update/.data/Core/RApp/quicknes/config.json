@@ -3,7 +3,7 @@
 "icon":"quicknes.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../ROMS/FC",
+"rompath":"../../Roms/FC",
 "imgpath":"../../Imgs/FC",
 "useswap":0,
 "shortname":0,

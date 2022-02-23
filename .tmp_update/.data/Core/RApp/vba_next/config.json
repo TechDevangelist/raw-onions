@@ -3,7 +3,7 @@
 "icon":"vba_next.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../ROMS/GBA",
+"rompath":"../../Roms/GBA",
 "imgpath":"../../Imgs/GBA",
 "useswap":1,
 "shortname":0,

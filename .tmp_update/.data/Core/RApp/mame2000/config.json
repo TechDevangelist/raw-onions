@@ -3,7 +3,7 @@
 "icon":"mame2000.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../ROMS/MAME2000",
+"rompath":"../../Roms/MAME2000",
 "imgpath":"../../Imgs/ARCADE",
 "useswap":1,
 "shortname":1,
