@@ -1,0 +1,12 @@
+{
+"label":"1994: PSX",
+"icon":"../../Icons/ps.png",
+"iconsel":"../../Icons/ps_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/PS",
+"imgpath":"../../Roms/PS/Imgs",
+"useswap":1,
+"shortname":1,
+"hidebios":0,
+"extlist":""
+}

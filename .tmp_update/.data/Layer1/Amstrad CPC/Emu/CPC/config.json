@@ -1,0 +1,12 @@
+{
+"label":"1984: CPC",
+"icon":"../../Icons/cpc.png",
+"iconsel":"../../Icons/cpc_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/CPC",
+"imgpath":"../../Roms/CPC/Imgs",
+"useswap":1,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

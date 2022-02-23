@@ -1,0 +1,12 @@
+{
+"label":"1986: FDS",
+"icon":"../../Icons/fds.png",
+"iconsel":"../../Icons/fds_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/FDS",
+"imgpath":"../../Roms/FDS/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":""
+}

@@ -1,0 +1,12 @@
+{
+"label":"1976: COL",
+"icon":"../../Icons/col.png",
+"iconsel":"../../Icons/col_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/COLECO",
+"imgpath":"../../Roms/COLECO/Imgs",
+"useswap":1,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

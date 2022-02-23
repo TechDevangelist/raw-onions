@@ -1,0 +1,12 @@
+{
+"label":"1994: NCD",
+"icon":"../../Icons/neocd.png",
+"iconsel":"../../Icons/neocd_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/NEOCD",
+"imgpath":"../../Roms/NEOCD/Imgs",
+"useswap":1,
+"shortname":0,
+"hidebios":0,
+"extlist":""
+}

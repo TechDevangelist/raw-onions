@@ -1,0 +1,12 @@
+{
+"label":"mgba_hacks",
+"icon":"mgba.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/GBAHACKS",
+"imgpath":"../../Roms/GBAHACKS/Imgs",
+"useswap":1,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

@@ -1,0 +1,13 @@
+{
+"label":"1990: NEO",
+"icon":"../../Icons/neogeo.png",
+"iconsel":"../../Icons/neogeo_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/NEOGEO",
+"imgpath":"../../Roms/NEOGEO/Imgs",
+"gamelist":"../../Roms/NEOGEO/gamelist.xml",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip"
+}

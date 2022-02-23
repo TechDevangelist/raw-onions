@@ -1,0 +1,12 @@
+{
+"label":"1983: MSX",
+"icon":"../../Icons/msx.png",
+"iconsel":"../../Icons/msx_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/MSX",
+"imgpath":"../../Roms/MSX/Imgs",
+"useswap":1,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

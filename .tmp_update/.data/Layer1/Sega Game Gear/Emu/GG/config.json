@@ -1,0 +1,12 @@
+{
+"label":"1990: GG",
+"icon":"../../Icons/gg.png",
+"iconsel":"../../Icons/gg_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/GG",
+"imgpath":"../../Roms/GG/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

@@ -1,0 +1,12 @@
+{
+"label":"1987: PCE",
+"icon":"../../Icons/pce.png",
+"iconsel":"../../Icons/pce_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/PCE",
+"imgpath":"../../Roms/PCE/Imgs",
+"useswap":1,
+"shortname":0,
+"hidebios":0,
+"extlist":""
+}

@@ -1,0 +1,7 @@
+{
+"label":"Little Sound DJ",
+"icon":"icon.png",
+"iconsel":"icon.png",
+"launch":"launch.sh",
+"description":"8-bit music tracker."
+}

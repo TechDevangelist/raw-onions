@@ -1,0 +1,12 @@
+{
+"label":"1983: NES",
+"icon":"../../Icons/fc.png",
+"iconsel":"../../Icons/fc_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/FC",
+"imgpath":"../../Roms/FC/Imgs",
+"useswap":1,
+"shortname":0,
+"hidebios":0,
+"extlist":""
+}

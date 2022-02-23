@@ -1,0 +1,12 @@
+{
+"label":"1976: FCF",
+"icon":"../../Icons/fairchild.png",
+"iconsel":"../../Icons/fairchild_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/FAIRCHILD",
+"imgpath":"../../Roms/FAIRCHILD/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

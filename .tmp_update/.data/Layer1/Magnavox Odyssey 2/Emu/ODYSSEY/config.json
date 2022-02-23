@@ -1,0 +1,12 @@
+{
+"label":"1978: ODY2",
+"icon":"../../Icons/ody.png",
+"iconsel":"../../Icons/ody_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/ODYSSEY",
+"imgpath":"../../Roms/ODYSSEY/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

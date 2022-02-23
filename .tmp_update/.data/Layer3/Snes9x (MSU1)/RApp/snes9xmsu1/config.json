@@ -1,0 +1,12 @@
+{
+"label":"snes9x_msu1",
+"icon":"snes9xmsu1.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/SFCMSU",
+"imgpath":"../../Roms/SFCMSU/Imgs",
+"useswap":1,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

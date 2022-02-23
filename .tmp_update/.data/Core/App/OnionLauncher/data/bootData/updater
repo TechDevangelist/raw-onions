@@ -1,0 +1,110 @@
+#!/bin/sh
+
+# init_lcd
+cat /proc/ls
+sleep 0.25
+
+cd /mnt/SDCARD/.tmp_update/
+./bootScreen
+
+# init backlight
+echo 0 > /sys/class/pwm/pwmchip0/export
+echo 800 > /sys/class/pwm/pwmchip0/pwm0/period
+echo 6 > /sys/class/pwm/pwmchip0/pwm0/duty_cycle
+echo 1 > /sys/class/pwm/pwmchip0/pwm0/enable
+
+# init charger detection
+if [ ! -f /sys/devices/gpiochip0/gpio/gpio59/direction ]; then
+	echo 59 > /sys/class/gpio/export
+	echo in > /sys/devices/gpiochip0/gpio/gpio59/direction
+fi
+ 
+cd /mnt/SDCARD/.tmp_update/
+./ADC &
+./brightnessCont &
+./checkCharge
+
+cd /tmp/
+if [ -f /tmp/.isCharging ] ; then
+	cd /mnt/SDCARD/.tmp_update/
+	./chargingState
+	reboot
+fi
+
+mkdir /mnt/SDCARD/RetroArch/.retroarch/states/PlayActivity
+
+# Retrieve last game played
+cd /mnt/SDCARD/.tmp_update/
+./lastGame
+
+while true; do
+	
+	
+	# Timer initialisation
+	cd /mnt/SDCARD/App/PlayActivity
+	./playActivity "init"
+
+	# Retroarch launch
+	cd /mnt/SDCARD/.tmp_update/
+	rm ./.menuStart
+	touch .scrOrder
+	cd /mnt/SDCARD/RetroArch
+	. /mnt/SDCARD/.tmp_update/RACommand.txt
+		
+	# Retrieve last game played for the timer
+	cd /mnt/SDCARD/.tmp_update/
+	./lastGame
+	
+	# Timer registration
+	cd /mnt/SDCARD/.tmp_update/
+	value=$(cat romName.txt);
+	cd /mnt/SDCARD/App/PlayActivity
+	./playActivity "$value"
+
+	# Onion launcher
+	cd /mnt/SDCARD/.tmp_update/
+	rm ./.menuA
+	rm ./.menuSelect
+	./turningOff 
+	
+	if [ -f ./.menuSelect ] ; then
+		cd /mnt/SDCARD/App/PlayActivity/
+		./playActivityUI
+	fi
+	cd /mnt/SDCARD/.tmp_update/
+	if [ -f ./.menuA ] ; then
+						
+		cd /mnt/SDCARD/.tmp_update/
+	
+		# Exit to MainUI
+		killall brightnessCont
+		killall ADC 
+		cd $(dirname "$0")
+		keymon &
+		while true; do
+				
+			cd /mnt/SDCARD/miyoo/app
+			./MainUI
+				
+			# Free memory
+			cd /mnt/SDCARD/.tmp_update
+			./freemma
+				
+			if [ -f /tmp/.cmdenc ] ; then
+				/root/gameloader
+			elif [ -f /tmp/cmd_to_run.sh ] ; then
+				chmod a+x /tmp/cmd_to_run.sh
+				/tmp/cmd_to_run.sh
+				rm /tmp/cmd_to_run.sh
+			fi
+		done
+	# .returnGame is activated we return to retroarch
+
+	elif [ ! -f ./.menuStart ] && [ ! -f ./.menuSelect ] ; then	
+		reboot
+	fi
+#Free memory
+cd /mnt/SDCARD/.tmp_update
+./freemma
+		
+done

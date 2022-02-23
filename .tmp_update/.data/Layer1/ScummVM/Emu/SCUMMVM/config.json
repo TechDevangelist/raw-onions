@@ -1,0 +1,12 @@
+{
+"label":"1987: SVM",
+"icon":"../../Icons/scummvm.png",
+"iconsel":"../../Icons/scummvm_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/SCUMMVM",
+"imgpath":"../../Roms/SCUMMVM/Imgs",
+"useswap":1,
+"shortname":0,
+"hidebios":0,
+"extlist":""
+}

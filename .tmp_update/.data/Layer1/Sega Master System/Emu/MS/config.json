@@ -1,0 +1,12 @@
+{
+"label":"1985: SMS",
+"icon":"../../Icons/ms.png",
+"iconsel":"../../Icons/ms_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/MS",
+"imgpath":"../../Roms/MS/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":""
+}

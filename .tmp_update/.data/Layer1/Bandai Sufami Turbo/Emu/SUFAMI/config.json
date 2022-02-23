@@ -1,0 +1,12 @@
+{
+"label":"1996: SUF",
+"icon":"../../Icons/sufami.png",
+"iconsel":"../../Icons/sufami_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/SUFAMI",
+"imgpath":"../../Roms/SUFAMI/Imgs",
+"useswap":1,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

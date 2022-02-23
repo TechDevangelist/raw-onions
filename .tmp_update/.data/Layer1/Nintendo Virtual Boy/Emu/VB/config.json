@@ -1,0 +1,12 @@
+{
+"label":"1995: VB",
+"icon":"../../Icons/vb.png",
+"iconsel":"../../Icons/vb_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/VB",
+"imgpath":"../../Roms/VB/Imgs",
+"useswap":1,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

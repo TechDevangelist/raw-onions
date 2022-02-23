@@ -1,0 +1,7 @@
+{
+"label":"Onion Launcher - Disabled",
+"icon":"hyperspaceOFF.png",
+"iconsel":"hyperspaceOFF.png",
+"launch":"launch.sh",
+"description":"A custom launcher."
+}

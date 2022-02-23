@@ -1,0 +1,12 @@
+{
+"label":"1988: CPS1",
+"icon":"../../Icons/cps1.png",
+"iconsel":"../../Icons/cps1_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/CPS1",
+"imgpath":"../../Roms/cps1/Imgs",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip"
+}

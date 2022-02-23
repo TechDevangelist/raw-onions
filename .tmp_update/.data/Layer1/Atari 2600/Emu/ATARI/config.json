@@ -1,0 +1,12 @@
+{
+"label":"1982: 2600",
+"icon":"../../Icons/atari.png",
+"iconsel":"../../Icons/atari_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/ATARI",
+"imgpath":"../../Roms/ATARI/Imgs",
+"useswap":1,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}
