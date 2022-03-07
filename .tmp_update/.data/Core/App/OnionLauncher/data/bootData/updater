@@ -5,7 +5,7 @@ cat /proc/ls
 sleep 0.25
 
 cd /mnt/SDCARD/.tmp_update/
-./bootScreen
+./bootScreen 
 
 # init backlight
 echo 0 > /sys/class/pwm/pwmchip0/export
@@ -23,6 +23,13 @@ cd /mnt/SDCARD/.tmp_update/
 ./ADC &
 ./brightnessCont &
 ./checkCharge
+
+#Load current time
+sTime=$(cat currentTime.txt)
+#Add 4 hours to the current time
+sTime=$(($sTime + 14400))
+sTime="@${sTime}"
+$(date +%s -s ${sTime})
 
 cd /tmp/
 if [ -f /tmp/.isCharging ] ; then
@@ -48,9 +55,12 @@ while true; do
 	cd /mnt/SDCARD/.tmp_update/
 	rm ./.menuStart
 	touch .scrOrder
-	cd /mnt/SDCARD/RetroArch
-	. /mnt/SDCARD/.tmp_update/RACommand.txt
-		
+	
+	if [ -f /mnt/SDCARD/.tmp_update/RACommand.txt ] ; then
+		cd /mnt/SDCARD/RetroArch
+		. /mnt/SDCARD/.tmp_update/RACommand.txt
+	fi
+	
 	# Retrieve last game played for the timer
 	cd /mnt/SDCARD/.tmp_update/
 	./lastGame
@@ -101,6 +111,11 @@ while true; do
 	# .returnGame is activated we return to retroarch
 
 	elif [ ! -f ./.menuStart ] && [ ! -f ./.menuSelect ] ; then	
+		# Save current time
+		#tempEpoch = date +%s
+		rm ./currentTime.txt
+		#tempEpoch = "dsfsdfsd123"
+		date +%s > currentTime.txt
 		reboot
 	fi
 #Free memory

@@ -1,1 +1,1 @@
-./retroarch -v -L "/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so" "/mnt/SDCARD/Roms/GBA/Advance Wars (Europe) (En,Fr,De,Es).gba"
+./retroarch -v -L "/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so" "/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc"
