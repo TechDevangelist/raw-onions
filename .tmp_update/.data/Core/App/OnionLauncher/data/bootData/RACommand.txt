@@ -1,1 +1,1 @@
-./retroarch -v -L "/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so" "/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc"
+./retroarch -v -L "/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so" "/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb"

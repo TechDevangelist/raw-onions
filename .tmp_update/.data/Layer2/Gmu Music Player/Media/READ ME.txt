@@ -1,0 +1,14 @@
+Ported by TechDevangelist 
+
+By default the app is setup to look for a Media folder in the root of the SD card but this can be configured from gmu.miyoo.conf..
+
+Supported decoders -
+
+decloader: modplug_module_decoder: File extensions: .mod;.xm;.it;.669;.s3m;.amf;.ams;.dbm;.dmf;.dsm;.far;.mdl;.med;.mtm;.okt;.ptm;.stm;.ult;.umx;.mt2;.psm;.mid;.midi
+decloader: mpg123_decoder: File extensions: .mp3;.mp2;.mp1
+decloader: FLAC_decoder: File extensions: .flac
+decloader: openmpt_module_decoder: File extensions: .mod;.s3m;.xm;.it;.mptm;.stm;.nst;.m15;.stk;.wow;.ult;.669;.mtm;.med;.far;.mdl;.ams;.dsm;.amf;.okt;.dmf;.ptm;.psm;.mt2;.dbm;.digi;.imf;.j2b;.gdm;.umx;.plm;.mo3;.xpk;.ppm;.mmcmp
+decloader: opus_decoder: File extensions: .opus
+decloader: speex_decoder: File extensions: .spx
+decloader: vorbis_decoder: File extensions: .ogg;.oga
+decloader: wavpack_decoder: File extensions: .wv;.wvc

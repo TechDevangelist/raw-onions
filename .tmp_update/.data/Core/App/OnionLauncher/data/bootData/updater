@@ -7,6 +7,9 @@ sleep 0.25
 cd /mnt/SDCARD/.tmp_update/
 ./bootScreen 
 
+#cd /mnt/SDCARD/App/Screenshot
+#./screenshot &
+
 # init backlight
 echo 0 > /sys/class/pwm/pwmchip0/export
 echo 800 > /sys/class/pwm/pwmchip0/pwm0/period
