@@ -1556,3 +1556,1177 @@ p¶O
 /mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
 /mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
 /mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Link's Awakening DX (France) (Rev A) (SGB Enhanced).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Link's Awakening DX (France) (Rev A) (SGB Enhanced).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Link's Awakening DX (France) (Rev A) (SGB Enhanced).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Link's Awakening DX (France) (Rev A) (SGB Enhanced).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mario's Picross (UE) [S][b2].gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mario's Picross (UE) [S][b2].gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mario's Picross (UE) [S][b2].gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mario's Picross (UE) [S][b2].gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mario's Picross (UE) [S][b2].gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mario's Picross (UE) [S][b2].gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mario's Picross (UE) [S][b2].gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/Emu/prboom/prboom_libretro.so
+/mnt/SDCARD/Roms/PRBOOM/DOOM.WAD
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mario's Picross (UE) [S][b2].gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mario's Picross (UE) [S][b2].gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mario's Picross (UE) [S][b2].gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mario's Picross (UE) [S][b2].gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mario's Picross (UE) [S][b2].gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mario's Picross (UE) [S][b2].gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/Emu/prboom/prboom_libretro.so
+/mnt/SDCARD/Roms/PRBOOM/DOOM.WAD
+/mnt/SDCARD/Emu/prboom/prboom_libretro.so
+/mnt/SDCARD/Roms/PRBOOM/DOOM.WAD
+/mnt/SDCARD/Emu/prboom/prboom_libretro.so
+/mnt/SDCARD/Roms/PRBOOM/DOOM.WAD
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mario's Picross (UE) [S][b2].gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/snes9x2005_plus_libretro.so
+/mnt/SDCARD/Roms/SFC/Illusion of Gaia (USA).sfc
+/mnt/SDCARD/RetroArch/.retroarch/cores/snes9x2005_plus_libretro.so
+/mnt/SDCARD/Roms/SFC/Illusion of Gaia (USA).sfc
+/mnt/SDCARD/RetroArch/.retroarch/cores/picodrive_libretro.so
+/mnt/SDCARD/Roms/SEGACD/Shining Force CD (EU).sub
+/mnt/SDCARD/RetroArch/.retroarch/cores/picodrive_libretro.so
+/mnt/SDCARD/Roms/SEGACD/Shining Force CD (EU).sub
+/mnt/SDCARD/RetroArch/.retroarch/cores/picodrive_libretro.so
+/mnt/SDCARD/Roms/SEGACD/Shining Force CD (EU).sub
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/picodrive_libretro.so
+/mnt/SDCARD/Roms/SEGACD/Shining Force CD (EU).sub
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mario's Picross (UE) [S][b2].gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/Emu/prboom/prboom_libretro.so
+/mnt/SDCARD/Roms/PRBOOM/DOOM.WAD
+/mnt/SDCARD/Emu/prboom/prboom_libretro.so
+/mnt/SDCARD/Roms/PRBOOM/DOOM.WAD
+/mnt/SDCARD/Emu/prboom/prboom_libretro.so
+/mnt/SDCARD/Roms/PRBOOM/DOOM.WAD
+/mnt/SDCARD/Emu/prboom/prboom_libretro.so
+/mnt/SDCARD/Roms/PRBOOM/DOOM.WAD
+/mnt/SDCARD/Emu/prboom/prboom_libretro.so
+/mnt/SDCARD/Roms/PRBOOM/DOOM.WAD
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RApp/snes9x2005/snes9x2005_libretro.so
+/mnt/SDCARD/Roms/SFC/Mega Man X (E).smc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/mgba_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/mgba_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/mgba_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/mgba_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/mgba_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/mgba_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/mgba_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/mgba_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/mgba_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/mgba_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/Emu/prboom/prboom_libretro.so
+/mnt/SDCARD/Roms/PRBOOM/DOOM.WAD
+/mnt/SDCARD/Emu/prboom/prboom_libretro.so
+/mnt/SDCARD/Roms/PRBOOM/DOOM.WAD
+/mnt/SDCARD/Emu/prboom/prboom_libretro.so
+/mnt/SDCARD/Roms/PRBOOM/DOOM.WAD
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RApp/snes9x2005/snes9x2005_libretro.so
+/mnt/SDCARD/Roms/SFC/Mega Man X (E).smc
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/snes9x2005_plus_libretro.so
+/mnt/SDCARD/Roms/SFC/Contra III - The Alien Wars (USA) (Beta).sfc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RApp/snes9x2005/snes9x2005_libretro.so
+/mnt/SDCARD/Roms/SFC/Mega Man X (E).smc
+/mnt/SDCARD/RApp/snes9x2005/snes9x2005_libretro.so
+/mnt/SDCARD/Roms/SFC/Mega Man X (E).smc
+/mnt/SDCARD/RApp/snes9x2005/snes9x2005_libretro.so
+/mnt/SDCARD/Roms/SFC/Mega Man X (E).smc
+/mnt/SDCARD/RetroArch/.retroarch/cores/snes9x2005_plus_libretro.so
+/mnt/SDCARD/Roms/SFC/Contra III - The Alien Wars (USA) (Beta).sfc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RApp/snes9x2005/snes9x2005_libretro.so
+/mnt/SDCARD/Roms/SFC/Mega Man X (E).smc
+/mnt/SDCARD/RApp/snes9x2005/snes9x2005_libretro.so
+/mnt/SDCARD/Roms/SFC/Mega Man X (E).smc
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/Duke Nukem - Land of the Babes FR.pbp
+/mnt/SDCARD/RApp/snes9x2005/snes9x2005_libretro.so
+/mnt/SDCARD/Roms/SFC/Mega Man X (E).smc
+/mnt/SDCARD/RApp/snes9x2005/snes9x2005_libretro.so
+/mnt/SDCARD/Roms/SFC/Mega Man X (E).smc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RApp/snes9x2005/snes9x2005_libretro.so
+/mnt/SDCARD/Roms/SFC/Mega Man X (E).smc
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/snes9x2005_plus_libretro.so
+/mnt/SDCARD/Roms/SFC/Super Mario World (E) (V1.1) [!].smc
+/mnt/SDCARD/RetroArch/.retroarch/cores/snes9x2005_plus_libretro.so
+/mnt/SDCARD/Roms/SFC/Super Mario World (E) (V1.1) [!].smc
+/mnt/SDCARD/RetroArch/.retroarch/cores/snes9x2005_plus_libretro.so
+/mnt/SDCARD/Roms/SFC/Super Mario World (E) (V1.1) [!].smc
+/mnt/SDCARD/RetroArch/.retroarch/cores/snes9x2005_plus_libretro.so
+/mnt/SDCARD/Roms/SFC/Super Mario World (E) (V1.1) [!].smc
+/mnt/SDCARD/RetroArch/.retroarch/cores/snes9x2005_plus_libretro.so
+/mnt/SDCARD/Roms/SFC/Super Mario World (E) (V1.1) [!].smc
+/mnt/SDCARD/RApp/snes9x2005/snes9x2005_libretro.so
+/mnt/SDCARD/Roms/SFC/Mega Man X (E).smc
+/mnt/SDCARD/RApp/snes9x2005/snes9x2005_libretro.so
+/mnt/SDCARD/Roms/SFC/Mega Man X (E).smc
+/mnt/SDCARD/RetroArch/.retroarch/cores/snes9x2005_plus_libretro.so
+/mnt/SDCARD/Roms/SFC/Super Mario World (E) (V1.1) [!].smc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/snes9x2005_plus_libretro.so
+/mnt/SDCARD/Roms/SFC/Super Mario World (E) (V1.1) [!].smc
+/mnt/SDCARD/RetroArch/.retroarch/cores/snes9x2005_plus_libretro.so
+/mnt/SDCARD/Roms/SFC/Mega Man X (E).smc
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/snes9x2005_plus_libretro.so
+/mnt/SDCARD/Roms/SFC/Super Mario World (E) (V1.1) [!].smc
+/mnt/SDCARD/RApp/snes9x2005/snes9x2005_libretro.so
+/mnt/SDCARD/Roms/SFC/Mega Man X (E).smc
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/snes9x2005_plus_libretro.so
+/mnt/SDCARD/Roms/SFC/Super Mario World (E) (V1.1) [!].smc
+/mnt/SDCARD/RetroArch/.retroarch/cores/snes9x2005_plus_libretro.so
+/mnt/SDCARD/Roms/SFC/Super Mario World (E) (V1.1) [!].smc
+/mnt/SDCARD/RApp/snes9x2005/snes9x2005_libretro.so
+/mnt/SDCARD/Roms/SFC/Mega Man X (E).smc
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RApp/snes9x2005/snes9x2005_libretro.so
+/mnt/SDCARD/Roms/SFC/Mega Man X (E).smc
+/mnt/SDCARD/RApp/snes9x2005/snes9x2005_libretro.so
+/mnt/SDCARD/Roms/SFC/Mega Man X (E).smc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/Emu/prboom/prboom_libretro.so
+/mnt/SDCARD/Roms/PRBOOM/DOOM.WAD
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/Front Mission 3 (USA).bin
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/[PSX] Grand Turismo 2 CD2.ccd
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/[PSX] Grand Turismo 2 CD2.ccd
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/[PSX] Grand Turismo 2 CD2.ccd
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/[PSX] Grand Turismo 2 CD2.ccd
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/[PSX] Grand Turismo 2 CD2.ccd
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/[PSX] Grand Turismo 2 CD2.ccd
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/[PSX] Grand Turismo 2 CD2.ccd
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/[PSX] Grand Turismo 2 CD2.ccd
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/[PSX] Grand Turismo 2 CD2.ccd
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/[PSX] Grand Turismo 2 CD2.ccd
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/[PSX] Grand Turismo 2 CD2.ccd
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/[PSX] Grand Turismo 2 CD2.ccd
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/[PSX] Grand Turismo 2 CD2.ccd
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/[PSX] Grand Turismo 2 CD2.ccd
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/mgba_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/mgba_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/mgba_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/mgba_libretro.so
+/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RApp/snes9x2005/snes9x2005_libretro.so
+/mnt/SDCARD/Roms/SFC/Mega Man X (E).smc
+/mnt/SDCARD/RApp/snes9x2005/snes9x2005_libretro.so
+/mnt/SDCARD/Roms/SFC/Mega Man X (E).smc
+/mnt/SDCARD/RApp/snes9x2005/snes9x2005_libretro.so
+/mnt/SDCARD/Roms/SFC/Mega Man X (E).smc
+/mnt/SDCARD/RApp/snes9x2005/snes9x2005_libretro.so
+/mnt/SDCARD/Roms/SFC/Mega Man X (E).smc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so
+/mnt/SDCARD/Roms/GBC/Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It).gbc
+/mnt/SDCARD/RApp/snes9x2005/snes9x2005_libretro.so
+/mnt/SDCARD/Roms/SFC/Mega Man X (E).smc
+/mnt/SDCARD/RApp/snes9x2005/snes9x2005_libretro.so
+/mnt/SDCARD/Roms/SFC/Mega Man X (E).smc
+/mnt/SDCARD/RApp/snes9x2005/snes9x2005_libretro.so
+/mnt/SDCARD/Roms/SFC/Mega Man X (E).smc
+/mnt/SDCARD/Emu/prboom/prboom_libretro.so
+/mnt/SDCARD/Roms/PRBOOM/DOOM.WAD
+/mnt/SDCARD/Emu/prboom/prboom_libretro.so
+/mnt/SDCARD/Roms/PRBOOM/DOOM.WAD
+/mnt/SDCARD/Emu/prboom/prboom_libretro.so
+/mnt/SDCARD/Roms/PRBOOM/DOOM.WAD
+/mnt/SDCARD/Emu/prboom/prboom_libretro.so
+/mnt/SDCARD/Roms/PRBOOM/DOOM.WAD
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/Duke Nukem - Land of the Babes FR.pbp
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/gpsp_libretro.so
+/mnt/SDCARD/Roms/GBA/ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es).gba
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/[PSX] Grand Turismo 2 CD2.ccd
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/[PSX] Grand Turismo 2 CD2.ccd
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/[PSX] Grand Turismo 2 CD2.ccd
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue
+/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so
+/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue

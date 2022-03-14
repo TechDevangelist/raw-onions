@@ -1,1 +1,1 @@
-./retroarch -v -L "/mnt/SDCARD/RetroArch/.retroarch/cores/gambatte_libretro.so" "/mnt/SDCARD/Roms/GB/Mole Mania (USA, Europe) (SGB Enhanced).gb"
+./retroarch -v -L "/mnt/SDCARD/RetroArch/.retroarch/cores/pcsx_rearmed_libretro.so" "/mnt/SDCARD/Roms/PS/WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue"
